@@ -11,7 +11,6 @@ import java.util.concurrent.locks.ReentrantLock;
  * mutual exclusion and synchronization in Java, a powerful alternative of
  * synchronized keyword.
  * 
- * @author Javin Paul
  */
 public class ProducerConsumerSolutionUsingLock {
 
